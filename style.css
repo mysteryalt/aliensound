@@ -1,0 +1,30 @@
+body {  
+    font-family: 'Koulen', cursive;
+     background: #f5dbda;}
+
+     .header_div p{
+color: gray;
+font-family: 'Macondo', cursive;
+letter-spacing: 2px;
+font-weight: bold;
+     }
+     button {
+         letter-spacing: 3px;
+         width: 75px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         margin-top: 20px;
+font-weight: bolder;
+     }
+     h3 {
+        font-size: 20px;
+     }
+     .copyright_footer {
+         position: fixed;
+         bottom: 0;
+width: 100%;
+text-align: center;
+background-color: antiquewhite;
+line-height: 2;
+font-size: 13px;
+text-shadow: 3px 3px 3px gray;
+     }
